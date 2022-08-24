@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-using-Skeletal-Joints# Safety Monitoring System for Dementia Patients Using Deep Learning Approach
+# Safety Monitoring System for Dementia Patients Using Deep Learning Approach
 
 ## Description
 
