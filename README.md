@@ -35,7 +35,8 @@ run the code -- python main.py --ip 0.0.0.0 --port 8000
 
 ## System Architecture
 
-<img width="466" alt="HARFlow" src="https://user-images.githubusercontent.com/91920989/186406552-31a20178-1018-49a0-8de2-6dd4751a233e.png">
+![harpic4](https://user-images.githubusercontent.com/91920989/186725773-841a7aa5-f099-49be-8c98-309df374e18e.png)
+
 
 ## Modules
 
@@ -58,7 +59,7 @@ run the code -- python main.py --ip 0.0.0.0 --port 8000
     * Each layer is associated with the weights that equals to the one above it. 
     * Add() function is used to add two layers and one output layer.
     * Dense layer is a common type of layer that is well utilized in this situation, which enables to connect all the nodes in the previous layer to the nodes in the current layer.
-    * ![harpic4](https://user-images.githubusercontent.com/91920989/186431448-30df91b0-e64d-4565-9e74-55ddc70f73b2.png)
+    * ![harpic4](https://user-images.githubusercontent.com/91920989/186725773-841a7aa5-f099-49be-8c98-309df374e18e.png)
     
 * Live streaming
     * The use cases of IOT(Internet of things) are vast in the present world where everything is on automation process. 
@@ -67,16 +68,16 @@ run the code -- python main.py --ip 0.0.0.0 --port 8000
     * This process of transmitting or getting media in this manner is referred to as streaming.
     * The phrase “LIVE” refers to as the medium of the data delivery, rather than the medium itself, it’s a replacement of a file downloading, where the end user have to download the complete file before listening or watching it.
     * ![harpic5](https://user-images.githubusercontent.com/91920989/186436325-1f23e452-e059-4d15-b004-f52a6a430e4f.jpg)
-    * ![harpic6](https://user-images.githubusercontent.com/91920989/186436713-acf6a2c6-f146-4f0a-ab39-12f4c2558306.jpg)
+    * ![harpic6](https://user-images.githubusercontent.com/91920989/186729108-a8fd5821-a90e-4587-b308-ce05b731f348.jpg)
 
 
 * React Native Application
     * In the system, the mobile app development acts as the interface that end user can access the system. 
     * A React Native framework is used in the case to create a hierarchy of user interface components.
     * When an abnormal circumstance happens during the live streaming, an alert message is sent to the user as a warning.
-    * ![harpic7](https://user-images.githubusercontent.com/91920989/186437237-6563ad98-fc35-4eff-90d7-27c059c59956.jpg)
-    * ![harpic8](https://user-images.githubusercontent.com/91920989/186437442-70086122-b140-4468-978d-b53524b50ff3.jpg)
-    * ![harpic9](https://user-images.githubusercontent.com/91920989/186437573-f77cab85-57b2-4cc9-b542-27a66686d7ae.jpg)
+    * ![harpic7](https://user-images.githubusercontent.com/91920989/186730336-332f195d-568e-404a-92e8-86b714c083a3.jpg)
+    * ![harpic8](https://user-images.githubusercontent.com/91920989/186730685-15e16b34-ada3-43de-bdc1-9d88a94711b2.jpg)
+    * ![harpic9](https://user-images.githubusercontent.com/91920989/186730909-e2c346ef-8702-4427-b829-f0fa5b4dcbda.jpg)
 
 ## Advantages of the Proposed System
 * Accuracy increases with the use of advanced algorithms
